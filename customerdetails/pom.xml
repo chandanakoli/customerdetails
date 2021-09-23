@@ -45,15 +45,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<pluginManagement>
-       			 <plugins>
-            			<plugin>
-                			<groupId>org.sonarsource.sonar-packaging-maven-plugin</groupId>
-               	 			<artifactId>sonar-packaging-maven-plugin</artifactId>
-               			 	<extensions>true</extensions>
-            			</plugin>
-        		</plugins>
-    		</pluginManagement>
+		
 	
 				
 	</build>
